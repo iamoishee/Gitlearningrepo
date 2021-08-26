@@ -8,7 +8,7 @@ public class mult {
        int p=2;
        int m=s*p;
        System.out.println("the answer is "+m);
-           
+          System.out.println("dev changed");
        }
        
    
