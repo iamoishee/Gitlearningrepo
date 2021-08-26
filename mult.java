@@ -9,7 +9,8 @@ public class mult {
        int m=s*p;
        System.out.println("the answer is "+m);
           System.out.println("dev changed");
-       }
+          System.out.println("checking");
+        }
        
    
     
